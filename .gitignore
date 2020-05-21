@@ -8,9 +8,9 @@ application/logs/*
 
 !application/*/.htaccess
 
-application/config/cofig.php.example
-application/config/constants.php.example
-application/config/database.php.example
+application/config/cofig.php
+application/config/constants.php
+application/config/database.php
 
 composer.lock
 
